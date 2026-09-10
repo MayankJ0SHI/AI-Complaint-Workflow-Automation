@@ -58,6 +58,7 @@ Customer Complaint
   <source src="https://github.com/MayankJ0SHI/CapstoneProject/blob/main/demo/demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 ## 📷 Snapshots
 
 ![alt text](images/ui_flow.png)
