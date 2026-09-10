@@ -55,11 +55,21 @@ Customer Complaint
 
 ## 🎥 Project Demo
 
-(demo/demo.mp4)
+[[(demo/demo.mp4)](https://github.com/MayankJ0SHI/CapstoneProject/blob/main/demo/demo.mp4)](https://github.com/MayankJ0SHI/CapstoneProject/blob/main/demo/demo.mp4)
+
+## 📷 Snapshots
+
+![alt text](images/ui_flow.png)
+
+![alt text](images/api_doc.png)
+
+![alt text](images/final_output.png)
+
+![alt text](images/output_folder_for_Each_run.png)
 
 # 🏗️ Architecture
 
-![alt text](architecture.png)
+![alt text](images/architecture.png)
 
 ```text
                        ┌──────────────────────┐
