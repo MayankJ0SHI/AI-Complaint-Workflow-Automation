@@ -54,10 +54,8 @@ Customer Complaint
 ---
 
 ## 🎥 Project Demo
-<video width="640" height="480" controls>
-  <source src="https://github.com/MayankJ0SHI/CapstoneProject/blob/main/demo/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Demo Link - https://github.com/MayankJ0SHI/CapstoneProject/blob/main/demo/demo.mp4
+Download it to watch
 
 ## 📷 Snapshots
 
