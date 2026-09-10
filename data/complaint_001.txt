@@ -1,21 +1,21 @@
-Customer Name: Priya Sharma
-Email: priya.sharma@example.com
-Phone: +91-9876543210
+CUSTOMER COMPLAINT RECORD
+==========================
+
+Case Date: March 3, 2026
+
+Customer Name: Rachel Kim
+Email: rachel.kim@fastmail.com
+Phone: (415) 555-0142
+
+Product/Service Involved: CloudSync Pro Subscription (Annual Plan)
 
 Complaint Description:
-I purchased a washing machine from your store last month. Within two weeks, it started making loud noises and stopped spinning properly.
-
-Product/Service Involved:
-Front-load Washing Machine, Model WMX-200
-
-Issue Details:
-The drum does not rotate during the wash cycle. I tried troubleshooting but the issue persists.
+I was charged twice for my annual CloudSync Pro subscription renewal on February 28, 2026. My bank statement shows two separate charges of $129.00 posted on the same day, transaction IDs CS-88213 and CS-88214. I only intended to renew one subscription and did not authorize a second charge.
 
 Resolution Provided:
-The technician visited once but only tightened a few screws. The problem remains unresolved.
+Our billing team confirmed the duplicate charge was caused by a checkout page retry error. The second charge of $129.00 was refunded to the customer's original payment method on March 5, 2026 (refund ID RF-45210). A confirmation email was sent to the customer.
 
-Escalation Information:
-I would like this issue escalated to the service manager.
+Escalation Required: No
+Supporting Documentation Attached: Yes - customer attached a screenshot of the bank statement showing both charges.
 
-Supporting Information:
-Invoice number: INV-2026-045
+Case Status: Resolved

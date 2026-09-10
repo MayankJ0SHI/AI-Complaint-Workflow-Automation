@@ -1,0 +1,21 @@
+CUSTOMER COMPLAINT RECORD
+==========================
+
+Case Date: March 11, 2026
+
+Customer Name: James O'Connell
+Email: james.oconnell@proton.me
+Phone: (617) 555-0155
+
+Product/Service Involved: PureBlend Kitchen Blender (Model PB-400)
+
+Complaint Description:
+I would like to request a refund for my PureBlend Kitchen Blender purchased on February 20, 2026. The motor stopped working after only three uses, and it is still within the 30-day return window. Order number is PB-91022.
+
+Resolution Provided:
+The return was approved under the standard 30-day policy since the purchase date and reported issue fall within the eligible window. A prepaid return label was emailed to the customer, and a full refund of $79.99 will be issued once the item is received at the warehouse.
+
+Escalation Required: No
+Supporting Documentation Attached: No
+
+Case Status: Resolved - Pending Return Receipt

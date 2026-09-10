@@ -1,0 +1,16 @@
+llm:
+  timeout: 60
+  max_retries: 2
+
+models:
+  basic:
+    primary: "openai/gpt-5.4-mini"
+    fallback: "openai/gpt-5.4"
+
+  generic:
+    primary: "openai/gpt-5.4"
+    fallback: "openai/gpt-5.4-mini"
+
+  complex:
+    primary: "openai/gpt-5.5"
+    fallback: "openai/gpt-5.4"

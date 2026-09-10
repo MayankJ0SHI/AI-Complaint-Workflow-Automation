@@ -11,3 +11,10 @@ pydantic-settings
 langchain-community
 langchain-classic
 docx2txt
+fastapi
+uvicorn
+python-multipart
+pandas
+streamlit
+pytest
+pytest-cov

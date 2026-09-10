@@ -1,17 +1,15 @@
 from pathlib import Path
 from langchain_community.document_loaders import TextLoader, PyPDFLoader, Docx2txtLoader
 from langchain_core.documents import Document
-from src.utils.logger import get_logger
+from src.logger.logger import get_logger
 
 logger = get_logger(__name__)
-
-ROOT_DIR = Path(__file__).resolve().parent.parent
 
 
 class DocumentParser:
     def __init__(self, folder_path: str = "data"):
         # Adapt folder path to always be relative to project root
-        self.folder = ROOT_DIR / folder_path
+        self.folder = Path(folder_path)
 
         if not self.folder.exists():
             logger.error(f"Folder not found: {self.folder}")

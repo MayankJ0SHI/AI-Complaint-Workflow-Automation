@@ -1,4 +1,27 @@
+# Environment
 .env
-/myenv
-*.pyc
-*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environment
+venv/
+.venv/
+myenv/
+
+# Runtime data
+data/runtime/
+
+# Generated outputs
+output/
+
+# Logs
+logs/
+
+# IDE
+.vscode/
+.idea/
