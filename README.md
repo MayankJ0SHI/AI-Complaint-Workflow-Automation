@@ -292,7 +292,7 @@ Update `.env` with your API key and configuration.
 Place complaint documents inside:
 
 ```text
-data/input/complaints/
+data/
 ```
 
 Supported formats:
