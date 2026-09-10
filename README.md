@@ -55,7 +55,7 @@ Customer Complaint
 
 ## 🎥 Project Demo
 
-[(demo/demo.mp4)](https://github.com/MayankJ0SHI/CapstoneProject/blob/main/demo/demo.mp4)
+[[(demo/demo.mp4)](https://github.com/MayankJ0SHI/CapstoneProject/blob/main/demo/demo.mp4)](https://github.com/MayankJ0SHI/CapstoneProject/blob/main/demo/demo.mp4)
 
 ## 📷 Snapshots
 
