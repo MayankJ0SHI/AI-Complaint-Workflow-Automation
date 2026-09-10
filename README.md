@@ -54,8 +54,8 @@ Customer Complaint
 ---
 
 ## 🎥 Project Demo
-
-[[(demo/demo.mp4)](https://github.com/MayankJ0SHI/CapstoneProject/blob/main/demo/demo.mp4)](https://github.com/MayankJ0SHI/CapstoneProject/blob/main/demo/demo.mp4)
+Demo Link - https://github.com/MayankJ0SHI/CapstoneProject/blob/main/demo/demo.mp4
+Download it to watch
 
 ## 📷 Snapshots
 
@@ -292,7 +292,7 @@ Update `.env` with your API key and configuration.
 Place complaint documents inside:
 
 ```text
-data/input/complaints/
+data/
 ```
 
 Supported formats:
