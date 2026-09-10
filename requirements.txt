@@ -18,3 +18,4 @@ pandas
 streamlit
 pytest
 pytest-cov
+python-pptx
