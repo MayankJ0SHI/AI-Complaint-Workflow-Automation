@@ -1,0 +1,13 @@
+langchain
+pydantic
+requests
+python-dotenv
+langchain-openai
+pypdf
+python-docx
+tenacity
+litellm
+pydantic-settings
+langchain-community
+langchain-classic
+docx2txt

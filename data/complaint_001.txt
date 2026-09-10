@@ -1,0 +1,21 @@
+Customer Name: Priya Sharma
+Email: priya.sharma@example.com
+Phone: +91-9876543210
+
+Complaint Description:
+I purchased a washing machine from your store last month. Within two weeks, it started making loud noises and stopped spinning properly.
+
+Product/Service Involved:
+Front-load Washing Machine, Model WMX-200
+
+Issue Details:
+The drum does not rotate during the wash cycle. I tried troubleshooting but the issue persists.
+
+Resolution Provided:
+The technician visited once but only tightened a few screws. The problem remains unresolved.
+
+Escalation Information:
+I would like this issue escalated to the service manager.
+
+Supporting Information:
+Invoice number: INV-2026-045

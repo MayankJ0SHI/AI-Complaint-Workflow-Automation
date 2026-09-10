@@ -1,0 +1,21 @@
+Customer Name: Arjun Mehta
+Email: arjun.mehta@example.com
+Phone: +91-9123456780
+
+Complaint Description:
+I subscribed to your internet service two months ago. The connection frequently drops, especially during video calls.
+
+Product/Service Involved:
+Fiber Internet Plan – 200 Mbps
+
+Issue Details:
+Frequent disconnections and unstable bandwidth.
+
+Resolution Provided:
+Customer support suggested restarting the router, but the issue continues.
+
+Escalation Information:
+Please escalate this to the technical team urgently.
+
+Supporting Information:
+Customer ID: CUST-7890
